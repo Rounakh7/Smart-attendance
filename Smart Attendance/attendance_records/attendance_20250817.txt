@@ -1,0 +1,11 @@
+Date: 2025-08-17
+ID    Name                           Status    
+--------------------------------------------------
+1     abdul                          PRESENT   
+2     rounakh                        ABSENT    
+
+--- Summary ---
+Total Students: 2
+Present: 1
+Absent: 1
+Attendance: 50.00%

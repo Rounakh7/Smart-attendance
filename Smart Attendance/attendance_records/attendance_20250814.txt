@@ -1,0 +1,11 @@
+Date: 2025-08-14
+ID    Name                           Status    
+--------------------------------------------------
+1     ss                             PRESENT   
+2     ejfnf                          ABSENT    
+
+--- Summary ---
+Total Students: 2
+Present: 1
+Absent: 1
+Attendance: 50.00%
